@@ -3,7 +3,7 @@ The Library Management System is a software application designed to manage and o
 
 Library Management System
 
-A simple library management system built using HTML, CSS, and JavaScript.
+A simple library management system built using HTML, CSS.
 
 Features
 
